@@ -1,4 +1,4 @@
 import math
  
-def sumar_digitos(num):
-     "Suma de dos digítos"
+def sumar_digito(numero): 
+    while >= 
